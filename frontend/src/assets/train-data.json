@@ -1,0 +1,1197 @@
+[
+  {
+    "train_name": "Rajdhani Express",
+    "train_number": "12345",
+    "source": "New Delhi (NDLS)",
+    "destination": "Mumbai Central (BCT)",
+    "departure_time": "16:30",
+    "arrival_time": "08:15",
+    "class": ["1A", "2A", "3A"],
+    "days_of_operation": ["Mon", "Wed", "Fri"],
+    "ticket_price": {
+      "1A": 4500,
+      "2A": 3000,
+      "3A": 2000
+    }
+  },
+  {
+    "train_name": "Shatabdi Express",
+    "train_number": "12001",
+    "source": "New Delhi (NDLS)",
+    "destination": "Amritsar (ASR)",
+    "departure_time": "07:20",
+    "arrival_time": "13:30",
+    "class": ["CC", "EC"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "CC": 1000,
+      "EC": 2000
+    }
+  },
+  {
+    "train_name": "Duronto Express",
+    "train_number": "12236",
+    "source": "Mumbai Central (BCT)",
+    "destination": "Kolkata (HWH)",
+    "departure_time": "23:00",
+    "arrival_time": "06:45",
+    "class": ["1A", "2A", "3A"],
+    "days_of_operation": ["Tue", "Thu", "Sat"],
+    "ticket_price": {
+      "1A": 4000,
+      "2A": 2500,
+      "3A": 1800
+    }
+  },
+  {
+    "train_name": "Garib Rath",
+    "train_number": "12909",
+    "source": "Delhi Sarai Rohilla (DEE)",
+    "destination": "Mumbai Bandra (BDTS)",
+    "departure_time": "15:35",
+    "arrival_time": "09:45",
+    "class": ["3A"],
+    "days_of_operation": ["Mon", "Wed", "Fri"],
+    "ticket_price": {
+      "3A": 900
+    }
+  },
+  {
+    "train_name": "Jan Shatabdi Express",
+    "train_number": "12052",
+    "source": "Madgaon (MAO)",
+    "destination": "Dadar (DR)",
+    "departure_time": "05:10",
+    "arrival_time": "14:20",
+    "class": ["CC", "2S"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "CC": 750,
+      "2S": 250
+    }
+  },
+  {
+    "train_name": "Humsafar Express",
+    "train_number": "22913",
+    "source": "Ernakulam (ERS)",
+    "destination": "Patna (PNBE)",
+    "departure_time": "20:55",
+    "arrival_time": "11:30",
+    "class": ["3A"],
+    "days_of_operation": ["Wed", "Sat"],
+    "ticket_price": {
+      "3A": 2200
+    }
+  },
+  {
+    "train_name": "Yuva Express",
+    "train_number": "12249",
+    "source": "Kolkata (HWH)",
+    "destination": "New Delhi (NDLS)",
+    "departure_time": "12:15",
+    "arrival_time": "11:45",
+    "class": ["CC", "2S"],
+    "days_of_operation": ["Mon", "Fri"],
+    "ticket_price": {
+      "CC": 1500,
+      "2S": 500
+    }
+  },
+  {
+    "train_name": "Gatimaan Express",
+    "train_number": "12050",
+    "source": "New Delhi (NDLS)",
+    "destination": "Jhansi (JHS)",
+    "departure_time": "08:10",
+    "arrival_time": "10:25",
+    "class": ["CC", "EC"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "CC": 1500,
+      "EC": 2500
+    }
+  },
+  {
+    "train_name": "Tejas Express",
+    "train_number": "22119",
+    "source": "Mumbai CSMT (CSMT)",
+    "destination": "Karmali (KRMI)",
+    "departure_time": "05:50",
+    "arrival_time": "14:00",
+    "class": ["CC", "EC"],
+    "days_of_operation": ["Mon", "Thu", "Sat"],
+    "ticket_price": {
+      "CC": 2000,
+      "EC": 3500
+    }
+  },
+  {
+    "train_name": "Maharaja Express",
+    "train_number": "12321",
+    "source": "New Delhi (NDLS)",
+    "destination": "Mumbai CST (CSTM)",
+    "departure_time": "09:00",
+    "arrival_time": "16:00",
+    "class": ["1A"],
+    "days_of_operation": ["Fri"],
+    "ticket_price": {
+      "1A": 100000
+    }
+  },
+  {
+    "train_name": "Deccan Queen",
+    "train_number": "12123",
+    "source": "Mumbai CSMT (CSMT)",
+    "destination": "Pune (PUNE)",
+    "departure_time": "17:10",
+    "arrival_time": "20:25",
+    "class": ["CC", "2S"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "CC": 600,
+      "2S": 200
+    }
+  },
+  {
+    "train_name": "Vande Bharat Express",
+    "train_number": "22435",
+    "source": "New Delhi (NDLS)",
+    "destination": "Varanasi (BSB)",
+    "departure_time": "06:00",
+    "arrival_time": "14:00",
+    "class": ["CC", "EC"],
+    "days_of_operation": ["Mon", "Thu", "Sat"],
+    "ticket_price": {
+      "CC": 1800,
+      "EC": 3500
+    }
+  },
+  {
+    "train_name": "Antyodaya Express",
+    "train_number": "22886",
+    "source": "Santragachi (SRC)",
+    "destination": "Mumbai LTT (LTT)",
+    "departure_time": "18:00",
+    "arrival_time": "03:30",
+    "class": ["2S"],
+    "days_of_operation": ["Tue", "Fri"],
+    "ticket_price": {
+      "2S": 600
+    }
+  },
+  {
+    "train_name": "Karnataka Express",
+    "train_number": "12627",
+    "source": "New Delhi (NDLS)",
+    "destination": "Bangalore (SBC)",
+    "departure_time": "21:15",
+    "arrival_time": "13:40",
+    "class": ["1A", "2A", "3A", "SL"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "1A": 5500,
+      "2A": 3500,
+      "3A": 2400,
+      "SL": 900
+    }
+  },
+  {
+    "train_name": "Palace on Wheels",
+    "train_number": "23456",
+    "source": "New Delhi (NDLS)",
+    "destination": "Jaipur (JP)",
+    "departure_time": "18:30",
+    "arrival_time": "08:00",
+    "class": ["1A"],
+    "days_of_operation": ["Wed"],
+    "ticket_price": {
+      "1A": 75000
+    }
+  },
+  {
+    "train_name": "Golden Chariot",
+    "train_number": "45678",
+    "source": "Bangalore (SBC)",
+    "destination": "Goa (MAO)",
+    "departure_time": "21:00",
+    "arrival_time": "09:00",
+    "class": ["1A"],
+    "days_of_operation": ["Mon"],
+    "ticket_price": {
+      "1A": 85000
+    }
+  },
+  {
+    "train_name": "Mandovi Express",
+    "train_number": "10103",
+    "source": "Mumbai CSMT (CSMT)",
+    "destination": "Madgaon (MAO)",
+    "departure_time": "07:10",
+    "arrival_time": "18:30",
+    "class": ["1A", "2A", "3A", "SL"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "1A": 4000,
+      "2A": 2500,
+      "3A": 1500,
+      "SL": 600
+    }
+  },
+  {
+    "train_name": "Goa Sampark Kranti Express",
+    "train_number": "12450",
+    "source": "New Delhi (NDLS)",
+    "destination": "Madgaon (MAO)",
+    "departure_time": "08:10",
+    "arrival_time": "12:00",
+    "class": ["2A", "3A", "SL"],
+    "days_of_operation": ["Tue", "Fri"],
+    "ticket_price": {
+      "2A": 3500,
+      "3A": 2000,
+      "SL": 700
+    }
+  },
+  {
+    "train_name": "Kerala Sampark Kranti Express",
+    "train_number": "12218",
+    "source": "Chandigarh (CDG)",
+    "destination": "Kochuveli (KCVL)",
+    "departure_time": "09:20",
+    "arrival_time": "21:00",
+    "class": ["1A", "2A", "3A", "SL"],
+    "days_of_operation": ["Mon", "Thu"],
+    "ticket_price": {
+      "1A": 7000,
+      "2A": 4500,
+      "3A": 3000,
+      "SL": 1200
+    }
+  },
+  {
+    "train_name": "Mysore Express",
+    "train_number": "16231",
+    "source": "Chennai Central (MAS)",
+    "destination": "Mysore (MYS)",
+    "departure_time": "23:30",
+    "arrival_time": "05:50",
+    "class": ["2A", "3A", "SL"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "2A": 2000,
+      "3A": 1300,
+      "SL": 500
+    }
+  },
+  {
+    "train_name": "Ranthambore Express",
+    "train_number": "12465",
+    "source": "Jodhpur (JU)",
+    "destination": "Indore (INDB)",
+    "departure_time": "16:30",
+    "arrival_time": "08:10",
+    "class": ["2A", "3A", "SL"],
+    "days_of_operation": ["Mon", "Thu"],
+    "ticket_price": {
+      "2A": 3500,
+      "3A": 2000,
+      "SL": 800
+    }
+  },
+  {
+    "train_name": "Rajdhani Express",
+    "train_number": "12345",
+    "source": "New Delhi (NDLS)",
+    "destination": "Mumbai Central (BCT)",
+    "departure_time": "16:30",
+    "arrival_time": "08:15",
+    "class": ["1A", "2A", "3A"],
+    "days_of_operation": ["Mon", "Wed", "Fri"],
+    "ticket_price": {
+      "1A": 4500,
+      "2A": 3000,
+      "3A": 2000
+    }
+  },
+  {
+    "train_name": "Shatabdi Express",
+    "train_number": "12001",
+    "source": "New Delhi (NDLS)",
+    "destination": "Amritsar (ASR)",
+    "departure_time": "07:20",
+    "arrival_time": "13:30",
+    "class": ["CC", "EC"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "CC": 1000,
+      "EC": 2000
+    }
+  },
+  {
+    "train_name": "Duronto Express",
+    "train_number": "12236",
+    "source": "Mumbai Central (BCT)",
+    "destination": "Kolkata (HWH)",
+    "departure_time": "23:00",
+    "arrival_time": "06:45",
+    "class": ["1A", "2A", "3A"],
+    "days_of_operation": ["Tue", "Thu", "Sat"],
+    "ticket_price": {
+      "1A": 4000,
+      "2A": 2500,
+      "3A": 1800
+    }
+  },
+  {
+    "train_name": "Garib Rath",
+    "train_number": "12909",
+    "source": "Delhi Sarai Rohilla (DEE)",
+    "destination": "Mumbai Bandra (BDTS)",
+    "departure_time": "15:35",
+    "arrival_time": "09:45",
+    "class": ["3A"],
+    "days_of_operation": ["Mon", "Wed", "Fri"],
+    "ticket_price": {
+      "3A": 900
+    }
+  },
+  {
+    "train_name": "Jan Shatabdi Express",
+    "train_number": "12052",
+    "source": "Madgaon (MAO)",
+    "destination": "Dadar (DR)",
+    "departure_time": "05:10",
+    "arrival_time": "14:20",
+    "class": ["CC", "2S"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "CC": 750,
+      "2S": 250
+    }
+  },
+  {
+    "train_name": "Humsafar Express",
+    "train_number": "22913",
+    "source": "Ernakulam (ERS)",
+    "destination": "Patna (PNBE)",
+    "departure_time": "20:55",
+    "arrival_time": "11:30",
+    "class": ["3A"],
+    "days_of_operation": ["Wed", "Sat"],
+    "ticket_price": {
+      "3A": 2200
+    }
+  },
+  {
+    "train_name": "Yuva Express",
+    "train_number": "12249",
+    "source": "Kolkata (HWH)",
+    "destination": "New Delhi (NDLS)",
+    "departure_time": "12:15",
+    "arrival_time": "11:45",
+    "class": ["CC", "2S"],
+    "days_of_operation": ["Mon", "Fri"],
+    "ticket_price": {
+      "CC": 1500,
+      "2S": 500
+    }
+  },
+  {
+    "train_name": "Gatimaan Express",
+    "train_number": "12050",
+    "source": "New Delhi (NDLS)",
+    "destination": "Jhansi (JHS)",
+    "departure_time": "08:10",
+    "arrival_time": "10:25",
+    "class": ["CC", "EC"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "CC": 1500,
+      "EC": 2500
+    }
+  },
+  {
+    "train_name": "Tejas Express",
+    "train_number": "22119",
+    "source": "Mumbai CSMT (CSMT)",
+    "destination": "Karmali (KRMI)",
+    "departure_time": "05:50",
+    "arrival_time": "14:00",
+    "class": ["CC", "EC"],
+    "days_of_operation": ["Mon", "Thu", "Sat"],
+    "ticket_price": {
+      "CC": 2000,
+      "EC": 3500
+    }
+  },
+  {
+    "train_name": "Maharaja Express",
+    "train_number": "12321",
+    "source": "New Delhi (NDLS)",
+    "destination": "Mumbai CST (CSTM)",
+    "departure_time": "09:00",
+    "arrival_time": "16:00",
+    "class": ["1A"],
+    "days_of_operation": ["Fri"],
+    "ticket_price": {
+      "1A": 100000
+    }
+  },
+  {
+    "train_name": "Deccan Queen",
+    "train_number": "12123",
+    "source": "Mumbai CSMT (CSMT)",
+    "destination": "Pune (PUNE)",
+    "departure_time": "17:10",
+    "arrival_time": "20:25",
+    "class": ["CC", "2S"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "CC": 600,
+      "2S": 200
+    }
+  },
+  {
+    "train_name": "Vande Bharat Express",
+    "train_number": "22435",
+    "source": "New Delhi (NDLS)",
+    "destination": "Varanasi (BSB)",
+    "departure_time": "06:00",
+    "arrival_time": "14:00",
+    "class": ["CC", "EC"],
+    "days_of_operation": ["Mon", "Thu", "Sat"],
+    "ticket_price": {
+      "CC": 1800,
+      "EC": 3500
+    }
+  },
+  {
+    "train_name": "Antyodaya Express",
+    "train_number": "22886",
+    "source": "Santragachi (SRC)",
+    "destination": "Mumbai LTT (LTT)",
+    "departure_time": "18:00",
+    "arrival_time": "03:30",
+    "class": ["2S"],
+    "days_of_operation": ["Tue", "Fri"],
+    "ticket_price": {
+      "2S": 600
+    }
+  },
+  {
+    "train_name": "Karnataka Express",
+    "train_number": "12627",
+    "source": "New Delhi (NDLS)",
+    "destination": "Bangalore (SBC)",
+    "departure_time": "21:15",
+    "arrival_time": "13:40",
+    "class": ["1A", "2A", "3A", "SL"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "1A": 5500,
+      "2A": 3500,
+      "3A": 2400,
+      "SL": 900
+    }
+  },
+  {
+    "train_name": "Palace on Wheels",
+    "train_number": "23456",
+    "source": "New Delhi (NDLS)",
+    "destination": "Jaipur (JP)",
+    "departure_time": "18:30",
+    "arrival_time": "08:00",
+    "class": ["1A"],
+    "days_of_operation": ["Wed"],
+    "ticket_price": {
+      "1A": 75000
+    }
+  },
+  {
+    "train_name": "Golden Chariot",
+    "train_number": "45678",
+    "source": "Bangalore (SBC)",
+    "destination": "Goa (MAO)",
+    "departure_time": "21:00",
+    "arrival_time": "09:00",
+    "class": ["1A"],
+    "days_of_operation": ["Mon"],
+    "ticket_price": {
+      "1A": 85000
+    }
+  },
+  {
+    "train_name": "Mandovi Express",
+    "train_number": "10103",
+    "source": "Mumbai CSMT (CSMT)",
+    "destination": "Madgaon (MAO)",
+    "departure_time": "07:10",
+    "arrival_time": "18:30",
+    "class": ["1A", "2A", "3A", "SL"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "1A": 4000,
+      "2A": 2500,
+      "3A": 1500,
+      "SL": 600
+    }
+  },
+  {
+    "train_name": "Goa Sampark Kranti Express",
+    "train_number": "12450",
+    "source": "New Delhi (NDLS)",
+    "destination": "Madgaon (MAO)",
+    "departure_time": "08:10",
+    "arrival_time": "12:00",
+    "class": ["2A", "3A", "SL"],
+    "days_of_operation": ["Tue", "Fri"],
+    "ticket_price": {
+      "2A": 3500,
+      "3A": 2000,
+      "SL": 700
+    }
+  },
+  {
+    "train_name": "Kerala Sampark Kranti Express",
+    "train_number": "12218",
+    "source": "Chandigarh (CDG)",
+    "destination": "Kochuveli (KCVL)",
+    "departure_time": "09:20",
+    "arrival_time": "21:00",
+    "class": ["1A", "2A", "3A", "SL"],
+    "days_of_operation": ["Mon", "Thu"],
+    "ticket_price": {
+      "1A": 7000,
+      "2A": 4500,
+      "3A": 3000,
+      "SL": 1200
+    }
+  },
+  {
+    "train_name": "Mysore Express",
+    "train_number": "16231",
+    "source": "Chennai Central (MAS)",
+    "destination": "Mysore (MYS)",
+    "departure_time": "23:30",
+    "arrival_time": "05:50",
+    "class": ["2A", "3A", "SL"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "2A": 2000,
+      "3A": 1300,
+      "SL": 500
+    }
+  },
+  {
+    "train_name": "Ranthambore Express",
+    "train_number": "12465",
+    "source": "Jodhpur (JU)",
+    "destination": "Indore (INDB)",
+    "departure_time": "16:30",
+    "arrival_time": "08:10",
+    "class": ["2A", "3A", "SL"],
+    "days_of_operation": ["Mon", "Thu"],
+    "ticket_price": {
+      "2A": 3500,
+      "3A": 2000,
+      "SL": 800
+    }
+  },
+  {
+    "train_name": "Punjab Mail",
+    "train_number": "12137",
+    "source": "Mumbai CST (CSMT)",
+    "destination": "Amritsar (ASR)",
+    "departure_time": "23:10",
+    "arrival_time": "20:00",
+    "class": ["1A", "2A", "3A"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "1A": 4500,
+      "2A": 2800,
+      "3A": 1600
+    }
+  },
+  {
+    "train_name": "Kota Jan Shatabdi",
+    "train_number": "12061",
+    "source": "Kota (KOTA)",
+    "destination": "Jaipur (JP)",
+    "departure_time": "05:45",
+    "arrival_time": "09:20",
+    "class": ["CC", "2S"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "CC": 750,
+      "2S": 300
+    }
+  },
+  {
+    "train_name": "Himalayan Queen",
+    "train_number": "12011",
+    "source": "Delhi (DLI)",
+    "destination": "Pathankot (PTK)",
+    "departure_time": "05:15",
+    "arrival_time": "12:30",
+    "class": ["1A", "2A"],
+    "days_of_operation": ["Mon", "Fri"],
+    "ticket_price": {
+      "1A": 4000,
+      "2A": 2000
+    }
+  },
+  {
+    "train_name": "Konkan Kanya Express",
+    "train_number": "10111",
+    "source": "Mumbai CST (CSMT)",
+    "destination": "Karmali (KRMI)",
+    "departure_time": "11:30",
+    "arrival_time": "21:00",
+    "class": ["1A", "2A", "3A"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "1A": 3500,
+      "2A": 2500,
+      "3A": 1300
+    }
+  },
+  {
+    "train_name": "Siddhartha Nagar Express",
+    "train_number": "14202",
+    "source": "Gorakhpur (GKP)",
+    "destination": "New Delhi (NDLS)",
+    "departure_time": "15:20",
+    "arrival_time": "05:10",
+    "class": ["2A", "3A", "SL"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "2A": 1800,
+      "3A": 1300,
+      "SL": 500
+    }
+  },
+  {
+    "train_name": "Bhopal Express",
+    "train_number": "12170",
+    "source": "Bhopal (BPL)",
+    "destination": "Delhi (NDLS)",
+    "departure_time": "17:45",
+    "arrival_time": "05:15",
+    "class": ["1A", "2A", "3A"],
+    "days_of_operation": ["Mon", "Thu"],
+    "ticket_price": {
+      "1A": 4000,
+      "2A": 2500,
+      "3A": 1300
+    }
+  },
+  {
+    "train_name": "Maharashtra Express",
+    "train_number": "11077",
+    "source": "Mumbai CST (CSMT)",
+    "destination": "Jabalpur (JBP)",
+    "departure_time": "22:15",
+    "arrival_time": "14:30",
+    "class": ["1A", "2A", "3A"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "1A": 4500,
+      "2A": 3000,
+      "3A": 1800
+    }
+  },
+  {
+    "train_name": "Kashi Vishwanath Express",
+    "train_number": "12333",
+    "source": "Varanasi (BSB)",
+    "destination": "New Delhi (NDLS)",
+    "departure_time": "14:30",
+    "arrival_time": "22:30",
+    "class": ["2A", "3A", "SL"],
+    "days_of_operation": ["Mon", "Fri"],
+    "ticket_price": {
+      "2A": 2400,
+      "3A": 1500,
+      "SL": 600
+    }
+  },
+  {
+    "train_name": "Janshatabdi Express",
+    "train_number": "12055",
+    "source": "Ghazipur (GZP)",
+    "destination": "Lucknow (LKO)",
+    "departure_time": "06:45",
+    "arrival_time": "13:15",
+    "class": ["2S"],
+    "days_of_operation": ["Mon", "Thu", "Sat"],
+    "ticket_price": {
+      "2S": 350
+    }
+  },
+  {
+    "train_name": "Vistadome Express",
+    "train_number": "16403",
+    "source": "Chennai (MAS)",
+    "destination": "Mysore (MYS)",
+    "departure_time": "16:00",
+    "arrival_time": "21:30",
+    "class": ["CC", "2A"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "CC": 1500,
+      "2A": 1000
+    }
+  },
+  {
+    "train_name": "Bhagat Ki Kothi Express",
+    "train_number": "12486",
+    "source": "Bhagat Ki Kothi (BGKT)",
+    "destination": "Jodhpur (JU)",
+    "departure_time": "23:00",
+    "arrival_time": "02:30",
+    "class": ["2A", "3A"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "2A": 2500,
+      "3A": 1300
+    }
+  },
+  {
+    "train_name": "Shahjahanpur Express",
+    "train_number": "12436",
+    "source": "Shahjahanpur (SPN)",
+    "destination": "New Delhi (NDLS)",
+    "departure_time": "18:30",
+    "arrival_time": "23:45",
+    "class": ["2A", "3A", "SL"],
+    "days_of_operation": ["Mon", "Thu"],
+    "ticket_price": {
+      "2A": 1500,
+      "3A": 1000,
+      "SL": 400
+    }
+  },
+  {
+    "train_name": "Sealdah Express",
+    "train_number": "12354",
+    "source": "Sealdah (SDAH)",
+    "destination": "New Delhi (NDLS)",
+    "departure_time": "11:15",
+    "arrival_time": "23:50",
+    "class": ["1A", "2A", "3A"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "1A": 4200,
+      "2A": 2800,
+      "3A": 1600
+    }
+  },
+  {
+    "train_name": "Shatabdi Exp",
+    "train_number": "12007",
+    "source": "New Delhi (NDLS)",
+    "destination": "Jammu Tawi (JAT)",
+    "departure_time": "06:00",
+    "arrival_time": "11:30",
+    "class": ["CC", "EC"],
+    "days_of_operation": ["Mon", "Thu"],
+    "ticket_price": {
+      "CC": 900,
+      "EC": 1800
+    }
+  },
+  {
+    "train_name": "Punarvasu Express",
+    "train_number": "12203",
+    "source": "Kolkata (HWH)",
+    "destination": "New Delhi (NDLS)",
+    "departure_time": "19:15",
+    "arrival_time": "06:50",
+    "class": ["1A", "2A"],
+    "days_of_operation": ["Tue", "Sat"],
+    "ticket_price": {
+      "1A": 4000,
+      "2A": 2400
+    }
+  },
+  {
+    "train_name": "Bikaner Express",
+    "train_number": "12455",
+    "source": "Bikaner (BKN)",
+    "destination": "Delhi (NDLS)",
+    "departure_time": "22:30",
+    "arrival_time": "09:20",
+    "class": ["1A", "2A", "3A"],
+    "days_of_operation": ["Mon", "Wed", "Fri"],
+    "ticket_price": {
+      "1A": 4000,
+      "2A": 2500,
+      "3A": 1500
+    }
+  },
+  {
+    "train_name": "Lucknow Mail",
+    "train_number": "12171",
+    "source": "Lucknow (LKO)",
+    "destination": "New Delhi (NDLS)",
+    "departure_time": "23:55",
+    "arrival_time": "05:50",
+    "class": ["1A", "2A", "3A"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "1A": 4300,
+      "2A": 2600,
+      "3A": 1400
+    }
+  },
+  {
+    "train_name": "Narmada Express",
+    "train_number": "12630",
+    "source": "Kota (KOTA)",
+    "destination": "Mumbai CST (CSMT)",
+    "departure_time": "07:00",
+    "arrival_time": "16:00",
+    "class": ["1A", "2A", "3A", "SL"],
+    "days_of_operation": ["Mon", "Fri"],
+    "ticket_price": {
+      "1A": 6000,
+      "2A": 3500,
+      "3A": 2300,
+      "SL": 800
+    }
+  },
+  {
+    "train_name": "Satyagrah Express",
+    "train_number": "15273",
+    "source": "Jabalpur (JBP)",
+    "destination": "Delhi (NDLS)",
+    "departure_time": "22:30",
+    "arrival_time": "13:30",
+    "class": ["2A", "3A", "SL"],
+    "days_of_operation": ["Tue", "Sat"],
+    "ticket_price": {
+      "2A": 2100,
+      "3A": 1400,
+      "SL": 600
+    }
+  },
+  {
+    "train_name": "Bhopal Jn. - Jabalpur Jn. Express",
+    "train_number": "12160",
+    "source": "Bhopal (BPL)",
+    "destination": "Jabalpur (JBP)",
+    "departure_time": "05:20",
+    "arrival_time": "09:40",
+    "class": ["2A", "3A"],
+    "days_of_operation": ["Mon", "Wed", "Fri"],
+    "ticket_price": {
+      "2A": 1400,
+      "3A": 800
+    }
+  },
+  {
+    "train_name": "Jaipur Express",
+    "train_number": "12481",
+    "source": "Jaipur (JP)",
+    "destination": "Delhi (NDLS)",
+    "departure_time": "15:00",
+    "arrival_time": "20:00",
+    "class": ["CC", "2S"],
+    "days_of_operation": ["Mon", "Thu"],
+    "ticket_price": {
+      "CC": 850,
+      "2S": 350
+    }
+  },
+  {
+    "train_name": "Chennai Mail",
+    "train_number": "12681",
+    "source": "Chennai (MAS)",
+    "destination": "Delhi (NDLS)",
+    "departure_time": "20:30",
+    "arrival_time": "05:20",
+    "class": ["1A", "2A", "3A"],
+    "days_of_operation": ["Tue", "Fri"],
+    "ticket_price": {
+      "1A": 4000,
+      "2A": 2500,
+      "3A": 1500
+    }
+  },
+  {
+    "train_name": "Bhopal - Gwalior Express",
+    "train_number": "12167",
+    "source": "Bhopal (BPL)",
+    "destination": "Gwalior (GWL)",
+    "departure_time": "18:45",
+    "arrival_time": "22:00",
+    "class": ["2A", "3A"],
+    "days_of_operation": ["Mon", "Wed", "Fri"],
+    "ticket_price": {
+      "2A": 1400,
+      "3A": 800
+    }
+  },
+  {
+    "train_name": "Goa Express",
+    "train_number": "12796",
+    "source": "Mangalore (MAQ)",
+    "destination": "Madgaon (MAO)",
+    "departure_time": "16:45",
+    "arrival_time": "19:30",
+    "class": ["2A", "3A"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "2A": 1500,
+      "3A": 800
+    }
+  },
+  {
+    "train_name": "Brahmaputra Mail",
+    "train_number": "14055",
+    "source": "Delhi (NDLS)",
+    "destination": "Dibrugarh (DBRG)",
+    "departure_time": "19:00",
+    "arrival_time": "07:00",
+    "class": ["1A", "2A", "3A"],
+    "days_of_operation": ["Wed", "Sun"],
+    "ticket_price": {
+      "1A": 5000,
+      "2A": 3000,
+      "3A": 1500
+    }
+  },
+  {
+    "train_name": "Andaman Express",
+    "train_number": "16113",
+    "source": "Chennai (MAS)",
+    "destination": "Port Blair (IXZ)",
+    "departure_time": "12:30",
+    "arrival_time": "18:30",
+    "class": ["1A", "2A", "3A"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "1A": 4000,
+      "2A": 2200,
+      "3A": 1100
+    }
+  },
+  {
+    "train_name": "Mangaluru Express",
+    "train_number": "16224",
+    "source": "Mangaluru (MAQ)",
+    "destination": "Bangalore (SBC)",
+    "departure_time": "15:00",
+    "arrival_time": "19:00",
+    "class": ["2A", "3A", "SL"],
+    "days_of_operation": ["Mon", "Wed", "Fri"],
+    "ticket_price": {
+      "2A": 1600,
+      "3A": 1000,
+      "SL": 400
+    }
+  },
+  {
+    "train_name": "Udhampur Express",
+    "train_number": "12478",
+    "source": "Udhampur (UDH)",
+    "destination": "New Delhi (NDLS)",
+    "departure_time": "20:00",
+    "arrival_time": "05:00",
+    "class": ["1A", "2A"],
+    "days_of_operation": ["Tue", "Sat"],
+    "ticket_price": {
+      "1A": 3800,
+      "2A": 2200
+    }
+  },
+  {
+    "train_name": "Mahabodhi Express",
+    "train_number": "12345",
+    "source": "Gaya (GAYA)",
+    "destination": "New Delhi (NDLS)",
+    "departure_time": "23:00",
+    "arrival_time": "07:30",
+    "class": ["2A", "3A", "SL"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "2A": 2400,
+      "3A": 1500,
+      "SL": 600
+    }
+  },
+  {
+    "train_name": "Shahjahanpur Express",
+    "train_number": "12488",
+    "source": "Shahjahanpur (SPN)",
+    "destination": "Delhi (NDLS)",
+    "departure_time": "16:30",
+    "arrival_time": "21:45",
+    "class": ["2A", "3A", "SL"],
+    "days_of_operation": ["Mon", "Wed", "Fri"],
+    "ticket_price": {
+      "2A": 1600,
+      "3A": 900,
+      "SL": 350
+    }
+  },
+  {
+    "train_name": "Himalayan Express",
+    "train_number": "12229",
+    "source": "Guwahati (GHY)",
+    "destination": "Jammu Tawi (JAT)",
+    "departure_time": "21:20",
+    "arrival_time": "12:30",
+    "class": ["1A", "2A", "3A"],
+    "days_of_operation": ["Tue", "Fri"],
+    "ticket_price": {
+      "1A": 6000,
+      "2A": 3500,
+      "3A": 1800
+    }
+  },
+  {
+    "train_name": "Malwa Express",
+    "train_number": "12173",
+    "source": "Indore (INDB)",
+    "destination": "Delhi (NDLS)",
+    "departure_time": "22:00",
+    "arrival_time": "07:00",
+    "class": ["2A", "3A", "SL"],
+    "days_of_operation": ["Wed", "Sat"],
+    "ticket_price": {
+      "2A": 2100,
+      "3A": 1400,
+      "SL": 600
+    }
+  },
+  {
+    "train_name": "Ludhiana - Jodhpur Express",
+    "train_number": "12487",
+    "source": "Ludhiana (LUH)",
+    "destination": "Jodhpur (JU)",
+    "departure_time": "15:45",
+    "arrival_time": "22:00",
+    "class": ["2A", "3A"],
+    "days_of_operation": ["Mon", "Thu"],
+    "ticket_price": {
+      "2A": 2000,
+      "3A": 1200
+    }
+  },
+  {
+    "train_name": "Nizamuddin - Patna Express",
+    "train_number": "15231",
+    "source": "Nizamuddin (NZM)",
+    "destination": "Patna (PNBE)",
+    "departure_time": "23:30",
+    "arrival_time": "09:50",
+    "class": ["2A", "3A", "SL"],
+    "days_of_operation": ["Mon", "Wed", "Fri"],
+    "ticket_price": {
+      "2A": 2200,
+      "3A": 1400,
+      "SL": 600
+    }
+  },
+  {
+    "train_name": "Vaishali Express",
+    "train_number": "15273",
+    "source": "Delhi (NDLS)",
+    "destination": "Patna (PNBE)",
+    "departure_time": "05:15",
+    "arrival_time": "12:40",
+    "class": ["2A", "3A", "SL"],
+    "days_of_operation": ["Daily"],
+    "ticket_price": {
+      "2A": 2100,
+      "3A": 1400,
+      "SL": 600
+    }
+  },
+  {
+    "train_name": "Jammu Rajdhani",
+    "train_number": "12425",
+    "source": "New Delhi (NDLS)",
+    "destination": "Jammu Tawi (JAT)",
+    "departure_time": "17:55",
+    "arrival_time": "23:30",
+    "class": ["1A", "2A", "3A"],
+    "days_of_operation": ["Mon", "Thu"],
+    "ticket_price": {
+      "1A": 4500,
+      "2A": 2800,
+      "3A": 1600
+    }
+  },
+  {
+    "train_name": "Shri Shankaracharya Express",
+    "train_number": "14202",
+    "source": "Varanasi (BSB)",
+    "destination": "Kolkata (HWH)",
+    "departure_time": "20:00",
+    "arrival_time": "08:30",
+    "class": ["2A", "3A"],
+    "days_of_operation": ["Tue", "Sat"],
+    "ticket_price": {
+      "2A": 1500,
+      "3A": 900
+    }
+  },
+  {
+    "train_name": "Himalayan Hill Queen",
+    "train_number": "12055",
+    "source": "Haldwani (HDW)",
+    "destination": "New Delhi (NDLS)",
+    "departure_time": "15:30",
+    "arrival_time": "23:00",
+    "class": ["1A", "2A"],
+    "days_of_operation": ["Mon", "Wed", "Fri"],
+    "ticket_price": {
+      "1A": 4000,
+      "2A": 2500
+    }
+  },
+  {
+    "train_name": "Gandhi Jayanti Special",
+    "train_number": "09313",
+    "source": "Mumbai CST (CSMT)",
+    "destination": "Delhi (NDLS)",
+    "departure_time": "05:15",
+    "arrival_time": "12:30",
+    "class": ["2A", "3A"],
+    "days_of_operation": ["Mon", "Fri"],
+    "ticket_price": {
+      "2A": 2000,
+      "3A": 1200
+    }
+  },
+  {
+    "train_name": "Surat - Muzaffarpur Express",
+    "train_number": "15211",
+    "source": "Surat (ST)",
+    "destination": "Muzaffarpur (MFP)",
+    "departure_time": "19:00",
+    "arrival_time": "10:00",
+    "class": ["2A", "3A"],
+    "days_of_operation": ["Tue", "Sat"],
+    "ticket_price": {
+      "2A": 1800,
+      "3A": 1000
+    }
+  },
+  {
+    "train_name": "Patna Express",
+    "train_number": "15232",
+    "source": "Patna (PNBE)",
+    "destination": "Delhi (NDLS)",
+    "departure_time": "06:45",
+    "arrival_time": "15:00",
+    "class": ["2A", "3A"],
+    "days_of_operation": ["Mon", "Fri"],
+    "ticket_price": {
+      "2A": 2100,
+      "3A": 1400
+    }
+  }
+]
